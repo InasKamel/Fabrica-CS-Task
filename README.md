@@ -1,13 +1,14 @@
-# UI Task
+# :computer: UI Task
 
-## Install
+
+### Install
 ```sh
 $ git clone https://github.com/InasKamel/Fabrica-CS-Task.git
 ```
 
-## Notes:
+### Notes
 
-Regarding the shape in the navbar, i prefer to use a hexagon to perfectly match the template design.
+  - Regarding the shape in the navbar, i prefer to use a hexagon to perfectly match the template design.
 
-## Future Work
+### Future Work
   - Hide h6 and p elements appearing when hovering on a hexagon image in small devices.
