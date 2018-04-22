@@ -12,3 +12,4 @@ $ git clone https://github.com/InasKamel/Fabrica-CS-Task.git
 
 ### Future Work
   - Hide h6 and p elements appearing when hovering on a hexagon image in small devices.
+  - Fix blog section responsivness
